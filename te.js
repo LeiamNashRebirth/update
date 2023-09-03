@@ -1,6 +1,3 @@
- const fs = require("fs");
- const axios = require("axios");
-
 function leiamnash(){
  return{
   "name": "cosplay",
